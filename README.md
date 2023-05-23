@@ -7,3 +7,5 @@
 ## 3D модель
 
 Сборка выполнена в SolidWorks. ссылка на 3д модель и файлы печати https://disk.yandex.ru/d/SF967q0PZAXNcQ
+![image](https://github.com/artem-sann/UselessBOX/assets/73960471/82095887-53d6-4413-b32e-521e8063e2f3)
+
